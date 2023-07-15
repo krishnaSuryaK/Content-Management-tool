@@ -9,7 +9,7 @@ I would like to express my gratitude to the entire Barat team for their unwaveri
 I am incredibly proud of what we have achieved, and I firmly believe that this tool will enhance Barat's content management capabilities, ultimately leading to improved efficiency and productivity. 📈📊
 I would like to extend my sincere thanks to everyone who has been part of this journey, from my mentors and colleagues to the entire Barat community. Your encouragement and belief in my abilities have been instrumental in making this project a success. 🙏❤️
 I am now looking forward to applying the skills and knowledge I have gained during this internship to future projects at Barat. I am excited about the opportunities that lie ahead and the chance to continue contributing to this amazing team. 🌟🚀 TASK 1 COMPLETED
-git link :- https://lnkd.in/gmBUn3_8
+git link :- https://github.com/krishnaSuryaK/Content-Management-tool
 
 Bharat Intern
 #gratitude #success #experience #management #work
